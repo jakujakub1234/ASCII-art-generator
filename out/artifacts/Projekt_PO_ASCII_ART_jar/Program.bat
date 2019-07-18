@@ -1,0 +1,1 @@
+java -jar Projekt_PO_ASCII_ART.jar
